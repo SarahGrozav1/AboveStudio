@@ -43,3 +43,33 @@ h1, h3, h4 {
     color: rgb(197, 171, 116);
     font-family: Arapey, sans-serif;
 }
+
+/* navigation links */
+
+#menu {
+    letter-spacing: 3px;
+    height: 80px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.473);
+    text-align: center;
+}
+
+#menu li {
+    display: inline-flex;
+    justify-content: center;
+    padding: 7px;
+    line-height: 60px;
+    list-style-type: none;
+}
+
+#menu li a {
+    
+    text-decoration: none;
+    color: white;
+    font-size: 16px; 
+}
+
+#menu a:hover{
+    text-decoration: underline;
+    color: rgb(197, 171, 116);
+}
