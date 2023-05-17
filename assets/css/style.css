@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&family=Ysabeau:wght@100&display=swap');
+
+* {
+   margin: 0;
+   padding: 0;
+   border: none;
+   box-sizing: border-box;
+}
+
+html {
+   scroll-behavior: smooth;
+   background-color: #4b515c;
+}
+
+body {
+    font-family: Arapey, sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+/* headings and logo */
+
+h1, h3, h4 {
+    font-family: Ysabeau, sans-serif;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+ #logo {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Arapey, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    
+}
+
+#logo em {
+    color: rgb(197, 171, 116);
+    font-family: Arapey, sans-serif;
+}
