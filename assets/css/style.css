@@ -121,3 +121,65 @@ h4 {
     background-color: transparent;
     border: 1px solid rgb(255, 255, 255);
 }
+
+
+
+/*                        media queries                      */
+       
+
+    
+
+    /* Responsiveness screen sizes from 490px wide and up */
+    @media screen and (min-width: 490px) {
+
+        #logo {
+            float: left;
+          }
+        
+          #menu {
+            background-color: rgba(0, 0, 0, 0.377);
+        }
+        
+          #menu li {
+            float: right;
+            line-height: 55px;
+          }
+        
+          #cover-text {
+            padding-top: 250px;
+          }
+        }
+
+              /* Responsiveness screen sizes from 570px wide and up */
+@media screen and (min-width: 570px) {
+
+    #logo {
+        font-size: 20px;
+    }
+
+    #menu li {
+        padding: 12px;
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    #menu li a {
+        font-size: 19px;
+    }
+}
+
+  /* Responsiveness screen sizes from 800px wide and up */
+  @media screen and (min-width: 800px) {
+
+    #menu li {
+        padding: 30px;
+        line-height: 20px;
+    }
+
+    #cover-text {
+        font-size: 15px;
+    }
+     h3 {
+        font-size: 25px;
+     }
+    }
