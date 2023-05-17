@@ -302,6 +302,19 @@ fieldset {
     padding-bottom: 100px;
 }
 
+/* gallery page */
+
+#photos {
+    column-count: 2;
+    column-gap: 5px;
+}
+
+#photos > img {
+    width: 100%;
+    padding: 5px;
+    margin-top: 50px;
+}
+
 
 /*                        media queries                      */
        
