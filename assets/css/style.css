@@ -378,6 +378,11 @@ fieldset {
     #about a {
         font-size: 15px;
     }
+
+    #photos {
+        width: 100%;
+        column-count: 2;
+    }
 }
 
   /* Responsiveness screen sizes from 800px wide and up */
@@ -459,6 +464,14 @@ fieldset {
         footer {
             margin-top: 80px;
         }
+
+         
+
+        #photos {
+            column-count: 3;
+            width: 100%;
+            margin-left: 0px;
+        }
     }
 
     /* Responsiveness screen sizes from 1055px wide and up */
@@ -531,5 +544,9 @@ fieldset {
 
         label {
             font-size: 20px;
+        }
+
+        #photos {
+            column-count: 4;
         }
     }
