@@ -261,6 +261,10 @@ fieldset {
          margin: 15px;
      }
 
+     /*                          Pages                          */
+
+     
+
 
 /*                        media queries                      */
        
@@ -351,7 +355,6 @@ fieldset {
 
      #about a {
         font-size: 20px;
-        
      }
 
      form {
@@ -365,8 +368,6 @@ fieldset {
      label {
         font-size: 18px;
      }
-
-
     }
 
     /* Responsiveness screen sizes from 985px wide and up */
@@ -387,10 +388,10 @@ fieldset {
             margin-top: 100px;
         }
 
-        
+        footer {
+            margin-top: 80px;
+        }
     }
-
-
 
     /* Responsiveness screen sizes from 1055px wide and up */
     @media screen and (min-width: 1055px) {
