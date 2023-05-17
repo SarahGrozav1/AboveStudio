@@ -234,6 +234,32 @@ fieldset {
     border-radius: 15px;
  }
 
+     /* footer */
+
+     footer {
+        height: 50%;
+        width: 100%;
+        text-align: center;
+        margin: 4px;
+        font-size: 13px;
+     }
+     
+     .social-networks > li {
+         display: inline;
+     }
+     
+     .social-networks li {
+         font-size: 20px;
+         margin: 2%;
+         padding: 20px;
+     }
+     
+      footer > #copyright {
+         color: white;
+         font-family: Arapey, sans-serif;
+         font-size: 15px;
+         margin: 15px;
+     }
 
 
 /*                        media queries                      */
@@ -360,7 +386,11 @@ fieldset {
         #container-find {
             margin-top: 100px;
         }
+
+        
     }
+
+
 
     /* Responsiveness screen sizes from 1055px wide and up */
     @media screen and (min-width: 1055px) {
