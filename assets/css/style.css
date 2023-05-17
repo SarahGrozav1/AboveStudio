@@ -405,6 +405,24 @@ fieldset {
      label {
         font-size: 18px;
      }
+
+     footer {
+        margin-top: 30px;
+     }
+
+     #ab-page #backg-image {
+        background-image: url(../images/about-backg.jpg);
+        background-size:cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+    }
+    
+    #ab-page #backg-image-transparent {
+        background-color: #000000c7;
+        width: 100%;
+        height: 100%;
+    }
     }
 
     /* Responsiveness screen sizes from 985px wide and up */
