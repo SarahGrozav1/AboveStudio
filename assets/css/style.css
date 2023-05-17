@@ -198,6 +198,16 @@ p {
           #cover-text {
             padding-top: 250px;
           }
+
+          #about #container {
+            font-size: 40px;
+            padding: 30px;
+            margin-top: 50px;
+          }
+        
+          #about {
+            height: 130vh;
+          }
         }
 
               /* Responsiveness screen sizes from 570px wide and up */
@@ -216,6 +226,18 @@ p {
     #menu li a {
         font-size: 19px;
     }
+
+    #two-designers .left-image {
+        width: 400px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    #about a {
+        font-size: 15px;
+    }
 }
 
   /* Responsiveness screen sizes from 800px wide and up */
@@ -232,4 +254,56 @@ p {
      h3 {
         font-size: 25px;
      }
+
+     #container {
+        font-size: 40px;
+     }
+
+     p {
+        font-size: 20px;
+     }
+
+     #about a {
+        font-size: 20px;
+        
+     }
+    }
+
+    /* Responsiveness screen sizes from 985px wide and up */
+    @media screen and (min-width: 985px) {
+    
+        #two-designers .left-image {
+            float: left;
+            padding: 20px;
+            margin-top: 50px;
+            margin-left: 70px;
+        }
+
+        #about {
+            height: 100vh;
+        }
+
+        p{
+            margin-top: 150px;
+        }
+    }
+
+    /* Responsiveness screen sizes from 1055px wide and up */
+    @media screen and (min-width: 1055px) {
+
+        #container {
+            font-size: 35px;
+        }
+    }
+
+    /* Responsiveness screen sizes from 1470px wide and up */
+    @media screen and (min-width: 1470px) {
+
+        #about {
+            height: 1000px;
+        }
+
+        p {
+            font-size: 30px;
+        }
     }
