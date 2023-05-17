@@ -77,7 +77,7 @@ h1, h3, h4 {
 /* cover text */
 
 #hero-outer {
-    height: 70vh;
+    height: 80vh;
     width: 100%;
 }
 
@@ -126,7 +126,7 @@ h4 {
  
 #about {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     text-align: center;
     margin-bottom: 30px;
 }
@@ -217,7 +217,7 @@ fieldset {
  legend {
     font-size: 20px;
     font-family: Arapey, sans-serif;
-    padding: 40px;
+    padding: 20px;
     
  }
 
@@ -267,9 +267,7 @@ fieldset {
             margin-top: 50px;
           }
         
-          #about {
-            height: 130vh;
-          }
+          
         }
 
               /* Responsiveness screen sizes from 570px wide and up */
@@ -329,6 +327,20 @@ fieldset {
         font-size: 20px;
         
      }
+
+     form {
+        width: 100%;
+     }
+
+     legend {
+        font-size: 25px;
+     }
+
+     label {
+        font-size: 18px;
+     }
+
+
     }
 
     /* Responsiveness screen sizes from 985px wide and up */
@@ -341,12 +353,12 @@ fieldset {
             margin-left: 70px;
         }
 
-        #about {
-            height: 100vh;
-        }
-
         p{
             margin-top: 150px;
+        }
+
+        #container-find {
+            margin-top: 100px;
         }
     }
 
@@ -356,16 +368,69 @@ fieldset {
         #container {
             font-size: 35px;
         }
+
+        #contact {
+            flex-direction: row;
+            padding-top: 30px;
+        }
+
+        #find-us {
+            margin-left: 100px;
+            width: 70%;
+            height: 60vh;
+            text-align: left;
+        }
+
+        #our-address {
+            padding-top: 20px;
+        }
+
+        form {
+            margin-top: 70px;
+            padding-top: 20px;
+            height: 40vh;
+            width: 70%;
+            margin-right: 30px;
+        }
+
+        legend {
+            padding-top: 50px;
+        }
+        
     }
 
     /* Responsiveness screen sizes from 1470px wide and up */
     @media screen and (min-width: 1470px) {
 
-        #about {
-            height: 1000px;
-        }
-
         p {
             font-size: 30px;
+        }
+
+        #container-find {
+            font-size: 35px;
+        }
+
+        #find-us {
+            margin-left: 150px;
+        }
+
+        form {
+            height: 40vh;
+            width: 60%;
+            padding-top: 20px;
+            margin-right: 100px;
+        }
+
+        fieldset {
+            padding: 20px;
+        }
+
+
+        legend {
+            font-size: 30px;
+        }
+
+        label {
+            font-size: 20px;
         }
     }
