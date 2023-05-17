@@ -263,7 +263,44 @@ fieldset {
 
      /*                          Pages                          */
 
-     
+     /* about page */
+
+#ab-page {
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    margin: auto;
+    font-size: 40px;
+    padding: 40px;
+    text-align: center;
+    color: rgb(197, 171, 116);
+}
+
+#design {
+    text-align: left;
+    margin: auto;
+    color: #ffffff;
+    padding-top: 20px; 
+    font-size: 25px;
+ }
+
+ #small-title {
+    font-size: 35px;
+    text-align: center;
+    margin: auto;
+    color: rgb(197, 171, 116);
+ }
+
+ #us {
+    text-align: left;
+    margin: auto;
+    color: #ffffff;
+    padding-top: 30px;
+    font-size: 25px;
+    padding-bottom: 100px;
+}
 
 
 /*                        media queries                      */
