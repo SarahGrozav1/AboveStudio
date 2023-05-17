@@ -202,6 +202,38 @@ p {
     margin: 20px;
  }
 
+ /* form */
+
+ form {
+    background-color: rgba(0, 0, 0, 0.192);
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+ }
+
+fieldset {
+    padding: 20px;
+}
+ legend {
+    font-size: 20px;
+    font-family: Arapey, sans-serif;
+    padding: 40px;
+    
+ }
+
+ label {
+    font-size: 11px;
+    color: rgb(197, 171, 116);
+ }
+
+ #send {
+    background-color: rgb(197, 171, 116);
+    color: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+ }
+
 
 
 /*                        media queries                      */
