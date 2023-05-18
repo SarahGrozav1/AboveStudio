@@ -264,7 +264,7 @@ fieldset {
 
      /*                          Pages                          */
 
-     
+
 
      /* about page */
 
@@ -318,6 +318,29 @@ fieldset {
     margin-top: 50px;
 }
 
+/* 404 error page */
+
+#error {
+    height: 70vh;
+    width: 80%;
+    margin: 20px 10% 20px 10%;
+    border: 2px rgb(197, 171, 116) solid;
+    padding-top: 100px;
+}
+
+#error h1 {
+    color:rgb(197, 171, 116);
+    text-align: center;
+    font-weight: 700;
+    font-size: 300%;
+}
+
+#error h2 {
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 150%;
+}
 
 /*                        media queries                      */
        
