@@ -22,8 +22,23 @@ Above Studio its a page with two designers from Dubai. They offer professional i
 
 ### Site Owner Goals
 - Attract people who want to design their place professionaly
-- Increase numbers people from ours communitys
+- Increase numbers people from our communitys
 - Promote us as ideal interior designers for people to chose
 
+## User Experience
 
+### Strategy
+
+#### Target Audience
+- People who don't know anything about interior design 
+- People who want to have a house professional designed
+- People who want to have their houses with less clutter and well organized
+
+#### User Requirements and Expectations
+- Simple and intuitive navigation system.
+- Find relevant information easily and quickly.
+- Links work as expected.
+- Easy way to contact the business.
+- Visually appealing responsive design.
+- Accessibility.
 
