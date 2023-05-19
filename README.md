@@ -186,3 +186,18 @@ As described in the previous section with the aid of wireframes, the website inc
 
 - A feature to be implemented in the future is a map with the location of the Above Studio at the bottom of the Contact section.
 
+# Page Design
+
+## Surface
+
+The surface design of the website is a simple design , maintaining easy of readability. The color schemes and font were chosen accordingly.
+
+### Color Scheme
+
+The color scheme I choosed is inspired from pinterest, from mycolor.space which I know from Code Institute and from pictures that I chose to be for this site. I like the contrast from dark blue to white and yellow it gives me some luxury feeling.
+
+![Color Scheme](documentation/color-scheme.png)
+
+### Font
+
+Arapey is the font used for high level heading such as the business name, logo and menu links and lowerlevel headings use Ysabeau font. These fonts were chosen for the artistic character and to convey the fluency and flexibility of artistic experimentation.
