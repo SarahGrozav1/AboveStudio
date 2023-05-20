@@ -268,3 +268,10 @@ While all the minimum criteria for fullfilling the user stories are met, there a
 
 2. A section or a page where are prices so that posible clients to know  what to expect. 
 
+## Bugs & Fixes
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Menu links failed on small screen sizes | Font size of logo and menu was decreased and menu floated left to fit header on two lines. |
+| Images from Gallery Page was loading very hard | By compressing them I sized down their KB , making  them loading a little bit faster. | 
+
