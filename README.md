@@ -200,4 +200,46 @@ The color scheme I choosed is inspired from pinterest, from mycolor.space which 
 
 ### Font
 
-Arapey is the font used for high level heading such as the business name, logo and menu links and lowerlevel headings use Ysabeau font. These fonts were chosen for the artistic character and to convey the fluency and flexibility of artistic experimentation.
+Arapey is the font used for high level heading such as the logo and menu links and lowerlevel headings use Ysabeau font. These fonts were chosen for the artistic character and to convey the fluency and flexibility of artistic experimentation.
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- GitHub
+- VS Code
+- Google Fonts
+- Font Awesome
+- ColorSpace
+- Pexels
+- W3 Schools
+- Youtube
+
+## Testing and Validation
+
+### HTML Validation
+
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages passed with no errors or warnings.
+
+<details>
+<summary>Home</summary>
+<img src="documentation/indexhtmlval.png" width="700">
+</details>
+
+<details>
+<summary>About</summary>
+<img src="documentation/abouthtmlval.png" width="700">
+</details>
+
+<details>
+<summary>Gallery</summary>
+<img src="documentation/galleryhtmlval.png" width="700">
+</details>
+
+<details>
+<summary>Contact</summary>
+<img src="documentation/signuphtmlval.png" width="700">
+</details>
