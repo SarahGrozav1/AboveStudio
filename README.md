@@ -275,3 +275,23 @@ While all the minimum criteria for fullfilling the user stories are met, there a
 | Menu links failed on small screen sizes | Font size of logo and menu was decreased and menu floated left to fit header on two lines. |
 | Images from Gallery Page was loading very hard | By compressing them I sized down their KB , making  them loading a little bit faster. | 
 
+## Credits
+
+### Media
+
+Images:
+*All images are from pixels.com
+
+### Code
+- The website was loosely modeled on and inspired by the Love Running Walkthough project and some of the code from the walkthrough project was used and adapted.
+- <a href="https://www.w3schools.com/">W3 Schools</a> was a great help in my whole project.
+- This README file was also guided by the README file from <a href="https://github.com/URiem/art-school/blob/main/README.md">URiem - Creative Spaces</a>.
+- The <a href="https://cbea.ms/git-commit/"> "How to Write a Git Commit Message" was very helpful recource for learning to write in Terminal.
+- The <a href="https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"> "An Interactive Guide to Flexbox" site was also very helpful on how to use Flexbox.
+
+### Acknowledgements
+
+I would like to thank:
+- My husband, Filip, for his encouragement and support along the way.
+- My mentor Daisy Mc Girr for her feedback, advice, guidance and support.
+- To Chris W Alumnus from Slack, for his help when I needed.
