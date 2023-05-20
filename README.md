@@ -247,3 +247,17 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 <summary>CSS Validation Screenshot</summary>
 <img src="documentation/CSSval.png" width="700">
 </details>
+
+## Outstanding Issues
+
+When I tested Gallery page in HTML validation I haved an error because I used space between images name, I fixed with a short line between those two words.
+
+## Browser Compatability
+
+The websites compatability was tested on the following browsers:
+
+* Google Chrome
+* Microsoft Edge
+* Safari
+
+
