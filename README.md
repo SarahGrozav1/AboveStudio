@@ -225,7 +225,7 @@ Arapey is the font used for high level heading such as the logo and menu links a
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages passed with no errors or warnings.
 
 <details>
-<summary>Home</summary>
+<summary>Home page</summary>
 <img src="documentation/indexhtmlval.png" width="700">
 </details>
 
