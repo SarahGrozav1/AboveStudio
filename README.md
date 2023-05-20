@@ -260,4 +260,11 @@ The websites compatability was tested on the following browsers:
 * Microsoft Edge
 * Safari
 
+## Room for improvement on User Stories
+
+While all the minimum criteria for fullfilling the user stories are met, there are several items that could be improved upon:
+
+1. A map could be included at the bottom of the home page to give more explicit directions to the location.
+
+2. A section or a page where are prices so that posible clients to know  what to expect. 
 
