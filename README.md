@@ -226,20 +226,24 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 
 <details>
 <summary>Home page</summary>
-<img src="documentation/indexhtmlval.png" width="700">
+<img src="documentation/home-validation.png" width="700">
 </details>
 
 <details>
-<summary>About</summary>
-<img src="documentation/abouthtmlval.png" width="700">
+<summary>About Page</summary>
+<img src="documentation/about-validation.png" width="700">
 </details>
 
 <details>
-<summary>Gallery</summary>
-<img src="documentation/galleryhtmlval.png" width="700">
+<summary>Gallery Page</summary>
+<img src="documentation/gallery-validation.png" width="700">
 </details>
 
+### CSS Validation
+
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. The code passed with no errors or warnings.
+
 <details>
-<summary>Contact</summary>
-<img src="documentation/signuphtmlval.png" width="700">
+<summary>CSS Validation Screenshot</summary>
+<img src="documentation/CSSval.png" width="700">
 </details>
