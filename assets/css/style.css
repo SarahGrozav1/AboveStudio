@@ -349,9 +349,7 @@ fieldset {
     /* Responsiveness screen sizes from 490px wide and up */
     @media screen and (min-width: 490px) {
 
-        #logo {
-            float: left;
-          }
+       
         
           #menu {
             background-color: rgba(0, 0, 0, 0.377);
