@@ -285,9 +285,9 @@ Images:
 ### Code
 - The website was loosely modeled on and inspired by the Love Running Walkthough project and some of the code from the walkthrough project was used and adapted.
 - <a href="https://www.w3schools.com/">W3 Schools</a> was a great help in my whole project.
-- This README file was also guided by the README file from <a href="https://github.com/URiem/art-school/blob/main/README.md">URiem - Creative Spaces</a>.
-- The <a href="https://cbea.ms/git-commit/"> "How to Write a Git Commit Message" was very helpful recource for learning to write in Terminal.
-- The <a href="https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"> "An Interactive Guide to Flexbox" site was also very helpful on how to use Flexbox.
+- This README file was guided by the README file from <a href="https://github.com/URiem/art-school/blob/main/README.md">URiem - Creative Spaces</a>.
+- The <a href="https://cbea.ms/git-commit/">How to Write a Git Commit Message was very helpful recource for learning to write in Terminal.
+- The <a href="https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/">An Interactive Guide to Flexbox site was also very helpful on how to use Flexbox.
 
 ### Acknowledgements
 
