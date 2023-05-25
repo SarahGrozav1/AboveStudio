@@ -248,6 +248,25 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 <img src="documentation/CSSval.png" width="700">
 </details>
 
+### Accessibility & Performance
+
+The Lighthouse feature on Google Devtools was used to assess accessibility and performance. All pages score high on accessibility. The gallery page scores lowest on performance due to the large number of images.
+
+<details>
+<summary>Home Page</summary>
+<img src="documentation/lighthouse1.png" width="700">
+</details>
+
+<details>
+<summary>About Page</summary>
+<img src="documentation/lighthouse2.png" width="700">
+</details>
+
+<details>
+<summary>Gallery Page</summary>
+<img src="documentation/lighthouse3.png" width="700">
+</details>
+
 ## Outstanding Issues
 
 When I tested Gallery page in HTML validation I haved an error because I used space between images name, I fixed with a short line between those two words.
