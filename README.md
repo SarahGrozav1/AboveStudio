@@ -107,7 +107,7 @@ As described in the previous section with the aid of wireframes, the website inc
 </details>
 <details>
 <summary>Screenshot of header on mobile</summary>
-<img src="documentation/small-header.png" width="400">
+<img src="documentation/small-screen-header.png" width="400">
 </details>
 
 - Featured on all main pages (and the 404 page).
@@ -118,7 +118,7 @@ As described in the previous section with the aid of wireframes, the website inc
 ### Footer
 <details>
 <summary>Screenshot of Footer</summary>
-<img src="documentation/desktop-footer.png" width="500">
+<img src="documentation/big-footer.png" width="500">
 </details>
 <details>
 <summary>Screenshot of footer on mobile</summary>
@@ -142,13 +142,26 @@ As described in the previous section with the aid of wireframes, the website inc
 <summary>Screenshot of HIRE US action</summary>
 <img src="documentation/hire-us-action.png" width="400">
 </details>
+
+- HIRE US button features immediately below the cover text.
+- If I press the HIRE US button it will take me to Contact section where its the form.
+
 <details>
 <summary>Screenshot of READ MORE action</summary>
 <img src="documentation/read-more-action.png" width="700">
 </details>
 
-- HIRE US button features immediately below the cover text. It links to the Contact Section where is the form.
-- READ MORE button features immediately bellow the paragraph from About Us Section and it links to the About Page.
+- READ MORE button features immediately bellow the paragraph from About Us Section.
+- If I press READ MORE button it will take me to About page where it gives you more information about the designers.
+
+<details>
+<summary>Screenshot of SEND action</summary>
+<img src="documentation/send-button.png" width="700">
+</details>
+
+- SEND button its in the form witch is in the Contact section.
+- If I press SEND button it wont happen nothing until I will fill every required field. And after I fill every field then it will refresh the page and get back down to Contact section.
+
 
 ### About page
 <details>
@@ -293,6 +306,8 @@ While all the minimum criteria for fullfilling the user stories are met, there a
 | ----------- | ----------- |
 | Menu links failed on small screen sizes | Font size of logo and menu was decreased and menu floated left to fit header on two lines. |
 | Images from Gallery Page was loading very hard | By compressing them I sized down their KB , making  them loading a little bit faster. | 
+
+
 
 ## Credits
 
