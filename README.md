@@ -100,6 +100,15 @@ The structure of the initial site will include three sections and two pages:
 
 As described in the previous section with the aid of wireframes, the website includes three sections and two pages, which all pages have a consistent header and footer. The home page includes several calls to action, which is link to the about page and the gallery page. Here are more details of the various page features:
 
+### Favicon
+<details>
+<summary>Screenshot of Favicon</summary>
+<img src="documentation/favicon.png" width="700">
+</details>
+
+- Featured on all main pages (and the 404 page).
+- This will provide an image in the the tabs header to allow the user to easily identify the website if they have multiple tabs open.
+
 ### Header
 <details>
 <summary>Screenshot of header on desktop</summary>
@@ -197,7 +206,7 @@ As described in the previous section with the aid of wireframes, the website inc
 
 ### 404 error page
 <details>
-<summary>Screenshot of Gallery page top</summary>
+<summary>Screenshot of 404 error page</summary>
 <img src="documentation/error.png" width="700">
 </details>
 
