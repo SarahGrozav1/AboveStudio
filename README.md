@@ -195,6 +195,15 @@ As described in the previous section with the aid of wireframes, the website inc
 
 - Features images of designers work. 
 
+### 404 error page
+<details>
+<summary>Screenshot of Gallery page top</summary>
+<img src="documentation/error.png" width="700">
+</details>
+
+- A 404 page will be implemented and will display if a user navigates to a broken link.
+- The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need  of the browsers back button.
+
 ### Future Additions
 
 - A feature to be implemented in the future is a map with the location of the Above Studio at the bottom of the Contact section.
