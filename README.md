@@ -300,7 +300,7 @@ The Lighthouse feature on Google Devtools was used to assess accessibility and p
 
 ## Outstanding Issues
 
-When I tested Gallery page in HTML validation I haved an error because I used space between images name, I fixed with a short line between those two words.
+- I don't have outstanding issues.
 
 ## Browser Compatability
 
@@ -324,6 +324,7 @@ While all the minimum criteria for fullfilling the user stories are met, there a
 | ----------- | ----------- |
 | Menu links failed on small screen sizes | Font size of logo and menu was decreased and menu floated left to fit header on two lines. |
 | Images from Gallery Page was loading very hard | By compressing them I sized down their KB , making  them loading a little bit faster. | 
+|When I tested Gallery page in HTML validation I haved an error because I used space between images name| I fixed with a short line between those two words.|
 
 
 
